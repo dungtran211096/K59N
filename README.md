@@ -11,7 +11,7 @@ Thử ấn nút gì đó bên dưới (t quên rồi) để trộn bản này v�
 
 `Xinh nhe`
 
-<img src="http://imgur.com/4qDyXeF">
+<img src="http://i.imgur.com/4qDyXeF.png">
 
 [DungTran](https://github.com/dungtran211096)
 Tài liệu này được viết bằng ngôn ngữ Markdown, nó cũng na ná HTML thôi, học đi nhé!
