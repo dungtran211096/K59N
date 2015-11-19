@@ -1,5 +1,5 @@
 # K59N
-dung xinh dep
+dung xinh
 
 Thử ấn nút gì đó bên dưới (t quên rồi) để trộn bản này với bản cũ
 
