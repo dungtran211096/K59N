@@ -4,7 +4,7 @@ ghi chép về w3af
 ## Mục lục
 [1. Khái niệm](#contents)
 [2. Cài đặt](#install)
-  *[2.1. Chuẩn bị](#prepare)
+  [2.1. Chuẩn bị](#prepare)
    [2.2. Cài đặt](#setup)
 [3. Cấu trúc](#structure)
 [4. Thực hiện](#running)
