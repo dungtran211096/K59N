@@ -2,27 +2,26 @@
 # w3af 
 ghi chép về w3af
 ## Mục lục
-[1. Khái niệm](#contents)
-[2. Cài đặt](#install)
-  [2.1. Chuẩn bị](#prepare)
-   [2.2. Cài đặt](#setup)
-[3. Cấu trúc](#structure)
-[4. Thực hiện](#running)
-[5. ]
-[]
+- [1. Khái niệm](#contents)
+- [2. Cài đặt](#install)
+  - [2.1. Chuẩn bị](#prepare)
+  - [2.2. Cài đặt](#setup)
+- [3. Cấu trúc](#structure)
+- [4. Thực hiện](#running)
+- [5. ]
+
 
 
 ===
-<a name=""></a>
+<a name="contents"></a>
 ## 1. w3af là gì ? 
 <a name="contents"></a>
 **w3af** (web application attack and audit framework) là một công cụ hỗ trợ kiểm thử bảo mật cho các ứng dụng web. 
-
-<a name=""></a>
-## 2. Cài đặt (ví dụ trên Ubuntu 14.04 LTS)
+---
 <a name="install"></a>
+## 2. Cài đặt (ví dụ trên Ubuntu 14.04 LTS)
 Cài đặt trên các nền tảng khác có thể xem [tại đây](http://docs.w3af.org/en/latest/install.html)
-
+<a name="prepare"></a>
 ### Các công cụ cần có :
 - Git client : 
 	
@@ -33,6 +32,7 @@ Cài đặt trên các nền tảng khác có thể xem [tại đây](http://doc
 	
 		$ apt-get install python-pip
 
+<a name="setup"></a>
 ### Cài đặt
 ```
 git clone https://github.com/andresriancho/w3af.git
